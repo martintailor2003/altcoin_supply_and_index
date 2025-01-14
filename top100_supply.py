@@ -20,7 +20,7 @@ def get_top_coins():
     params = {
         'vs_currency': 'usd',
         'order': 'market_cap_desc',
-        'per_page': 200,
+        'per_page': 100,
         'page': 1
     }
     response = requests.get(url, params=params)
