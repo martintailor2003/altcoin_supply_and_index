@@ -78,7 +78,7 @@ top_coins = get_top_coins()
 full_coin_names = map_symbols_to_full_names(binance_coin_symbols, top_coins)
 
 # Add supply data to the full coin names
-api_key = 'CG-cYxiYw2xXKQcWq7kKEuWQ3Rg'
+api_key = 'your-api'
 for symbol, coin_id in full_coin_names.items():
     supply = get_coin_supply(coin_id, api_key)
     if supply is not None:
