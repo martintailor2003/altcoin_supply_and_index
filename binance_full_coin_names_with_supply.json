@@ -1,0 +1,502 @@
+{
+    "COMP": {
+        "full_name": "compound-governance-token",
+        "supply": 8868607.747447398
+    },
+    "FDUSD": {
+        "full_name": "first-digital-usd",
+        "supply": 1763521382.62
+    },
+    "WBTC": {
+        "full_name": "arbitrum-bridged-wbtc-arbitrum-one",
+        "supply": 8355.25633022
+    },
+    "AAVE": {
+        "full_name": "aave",
+        "supply": 15045539.589169443
+    },
+    "ENS": {
+        "full_name": "ethereum-name-service",
+        "supply": 33165585.054507963
+    },
+    "XMR": {
+        "full_name": "monero",
+        "supply": 18446744.07370955
+    },
+    "KAIA": {
+        "full_name": "kaia",
+        "supply": 5856641747.106198
+    },
+    "APE": {
+        "full_name": "apecoin",
+        "supply": 721448863.0
+    },
+    "ROSE": {
+        "full_name": "oasis-network",
+        "supply": 6729795897.58809
+    },
+    "MKR": {
+        "full_name": "maker",
+        "supply": 891235.141291172
+    },
+    "ICP": {
+        "full_name": "internet-computer",
+        "supply": 479349997.8432639
+    },
+    "ADA": {
+        "full_name": "cardano",
+        "supply": 35870532505.74256
+    },
+    "SEI": {
+        "full_name": "sei-network",
+        "supply": 4207777777.0
+    },
+    "BIO": {
+        "full_name": "bio-protocol",
+        "supply": 1620333718.7600427
+    },
+    "FLOW": {
+        "full_name": "flow",
+        "supply": 1556395136.211605
+    },
+    "PNUT": {
+        "full_name": "peanut-the-squirrel",
+        "supply": 999858912.07
+    },
+    "JTO": {
+        "full_name": "jito-governance-token",
+        "supply": 282035557.2
+    },
+    "NEAR": {
+        "full_name": "near",
+        "supply": 1174749334.0
+    },
+    "MANA": {
+        "full_name": "decentraland",
+        "supply": 1868016733.77693
+    },
+    "AMP": {
+        "full_name": "amp-token",
+        "supply": 84231346590.2867
+    },
+    "BEAM": {
+        "full_name": "beam-2",
+        "supply": 52561007898.0
+    },
+    "STRK": {
+        "full_name": "starknet",
+        "supply": 2419112366.0
+    },
+    "BTC": {
+        "full_name": "bitcoin",
+        "supply": 19810081.0
+    },
+    "CKB": {
+        "full_name": "nervos-network",
+        "supply": 45508619947.75648
+    },
+    "TRX": {
+        "full_name": "tron",
+        "supply": 86168194480.8168
+    },
+    "ETH": {
+        "full_name": "ethereum",
+        "supply": 120494933.9819122
+    },
+    "TAO": {
+        "full_name": "bittensor",
+        "supply": 8170903.0
+    },
+    "IOTA": {
+        "full_name": "iota",
+        "supply": 3593121973.0
+    },
+    "BNSOL": {
+        "full_name": "binance-staked-sol",
+        "supply": 7665388.076337081
+    },
+    "USDC": {
+        "full_name": "usd-coin",
+        "supply": 45747468018.03741
+    },
+    "ETC": {
+        "full_name": "ethereum-classic",
+        "supply": 150344155.3710927
+    },
+    "TIA": {
+        "full_name": "celestia",
+        "supply": 490149378.379715
+    },
+    "MOVE": {
+        "full_name": "movement",
+        "supply": 2250000000.0
+    },
+    "ZRO": {
+        "full_name": "layerzero",
+        "supply": 111152854.20763355
+    },
+    "AR": {
+        "full_name": "arweave",
+        "supply": 65454185.5381511
+    },
+    "SAND": {
+        "full_name": "the-sandbox",
+        "supply": 2445857126.2233224
+    },
+    "CRV": {
+        "full_name": "curve-dao-token",
+        "supply": 1266554886.0
+    },
+    "NEXO": {
+        "full_name": "nexo",
+        "supply": 1000000000.0
+    },
+    "GRT": {
+        "full_name": "the-graph",
+        "supply": 9548531509.16547
+    },
+    "PYTH": {
+        "full_name": "pyth-network",
+        "supply": 3624988786.43857
+    },
+    "PAXG": {
+        "full_name": "pax-gold",
+        "supply": 199956.696
+    },
+    "BTT": {
+        "full_name": "bittorrent",
+        "supply": 968246428571000.0
+    },
+    "EGLD": {
+        "full_name": "elrond-erd-2",
+        "supply": 27820109.0
+    },
+    "FLOKI": {
+        "full_name": "floki",
+        "supply": 9673732966177.0
+    },
+    "AXS": {
+        "full_name": "axie-infinity",
+        "supply": 157671882.5020393
+    },
+    "KSM": {
+        "full_name": "kusama",
+        "supply": 15976372.74012025
+    },
+    "USDS": {
+        "full_name": "usds",
+        "supply": 6218888490.920969
+    },
+    "SUPER": {
+        "full_name": "superfarm",
+        "supply": 451694843.416917
+    },
+    "XEC": {
+        "full_name": "ecash",
+        "supply": 19811532797584.0
+    },
+    "RAY": {
+        "full_name": "raydium",
+        "supply": 290888623.959345
+    },
+    "DEXE": {
+        "full_name": "dexe",
+        "supply": 57103774.56313077
+    },
+    "ENA": {
+        "full_name": "ethena",
+        "supply": 3032812500.0
+    },
+    "SOL": {
+        "full_name": "solana",
+        "supply": 484404966.8101215
+    },
+    "KAVA": {
+        "full_name": "kava",
+        "supply": 1082853842.0
+    },
+    "ORDI": {
+        "full_name": "ordinals",
+        "supply": 21000000.0
+    },
+    "LUNC": {
+        "full_name": "terra-luna",
+        "supply": 5505095738030.187
+    },
+    "PEPE": {
+        "full_name": "pepe",
+        "supply": 420690000000000.0
+    },
+    "LTC": {
+        "full_name": "litecoin",
+        "supply": 75418520.73347135
+    },
+    "EIGEN": {
+        "full_name": "eigenlayer",
+        "supply": 210808569.73
+    },
+    "IMX": {
+        "full_name": "immutable-x",
+        "supply": 1719283101.3898141
+    },
+    "SHIB": {
+        "full_name": "shiba-inu",
+        "supply": 589255244009551.8
+    },
+    "SUI": {
+        "full_name": "sui",
+        "supply": 3009569341.533888
+    },
+    "AIXBT": {
+        "full_name": "aixbt",
+        "supply": 855612732.0
+    },
+    "APT": {
+        "full_name": "aptos",
+        "supply": 571214325.9813198
+    },
+    "AXL": {
+        "full_name": "axelar",
+        "supply": 896773224.404994
+    },
+    "OP": {
+        "full_name": "optimism",
+        "supply": 1351719035.0
+    },
+    "OM": {
+        "full_name": "mantra-dao",
+        "supply": 960396790.0399997
+    },
+    "STX": {
+        "full_name": "blockstack",
+        "supply": 1508874167.97661
+    },
+    "CFX": {
+        "full_name": "conflux-token",
+        "supply": 4823951424.677964
+    },
+    "ZK": {
+        "full_name": "zksync",
+        "supply": 3675000000.0
+    },
+    "FET": {
+        "full_name": "fetch-ai",
+        "supply": 2604959126.672
+    },
+    "SNX": {
+        "full_name": "havven",
+        "supply": 339466216.9903987
+    },
+    "UNI": {
+        "full_name": "uniswap",
+        "supply": 600483073.71
+    },
+    "MINA": {
+        "full_name": "mina-protocol",
+        "supply": 1206142474.840039
+    },
+    "LPT": {
+        "full_name": "livepeer",
+        "supply": 37305749.75054902
+    },
+    "RSR": {
+        "full_name": "reserve-rights-token",
+        "supply": 53834088904.0
+    },
+    "TWT": {
+        "full_name": "trust-wallet-token",
+        "supply": 416649900.0
+    },
+    "POL": {
+        "full_name": "polygon-ecosystem-token",
+        "supply": 8444175466.411677
+    },
+    "TON": {
+        "full_name": "the-open-network",
+        "supply": 2540186045.558855
+    },
+    "NEO": {
+        "full_name": "neo",
+        "supply": 70530000.0
+    },
+    "ALGO": {
+        "full_name": "algorand",
+        "supply": 8373016749.817104
+    },
+    "TFUEL": {
+        "full_name": "theta-fuel",
+        "supply": 6809575093.0
+    },
+    "XLM": {
+        "full_name": "stellar",
+        "supply": 30410395402.38764
+    },
+    "HNT": {
+        "full_name": "helium",
+        "supply": 176445384.3594553
+    },
+    "W": {
+        "full_name": "wormhole",
+        "supply": 2817450033.0
+    },
+    "LDO": {
+        "full_name": "lido-dao",
+        "supply": 896046961.4578881
+    },
+    "ARB": {
+        "full_name": "arbitrum",
+        "supply": 4210111968.0
+    },
+    "LINK": {
+        "full_name": "chainlink",
+        "supply": 631099972.3083414
+    },
+    "JASMY": {
+        "full_name": "jasmycoin",
+        "supply": 48419999999.3058
+    },
+    "PENGU": {
+        "full_name": "pudgy-penguins",
+        "supply": 62860396090.0
+    },
+    "VET": {
+        "full_name": "vechain",
+        "supply": 80985041177.0
+    },
+    "NOT": {
+        "full_name": "notcoin",
+        "supply": 102456957529.5639
+    },
+    "1INCH": {
+        "full_name": "1inch",
+        "supply": 1397987835.486226
+    },
+    "BNB": {
+        "full_name": "binancecoin",
+        "supply": 145887575.79
+    },
+    "RUNE": {
+        "full_name": "thorchain",
+        "supply": 347840989.0
+    },
+    "DOGE": {
+        "full_name": "binance-peg-dogecoin",
+        "supply": 2564000000.0
+    },
+    "JUP": {
+        "full_name": "jupiter-exchange-solana",
+        "supply": 1686443547.605848
+    },
+    "FIL": {
+        "full_name": "filecoin",
+        "supply": 621195440.0
+    },
+    "WLD": {
+        "full_name": "worldcoin-wld",
+        "supply": 896459759.4833169
+    },
+    "BONK": {
+        "full_name": "bonk",
+        "supply": 76363283172431.7
+    },
+    "DAI": {
+        "full_name": "dai",
+        "supply": 3508431150.152317
+    },
+    "XRP": {
+        "full_name": "ripple",
+        "supply": 57493120449.0
+    },
+    "TUSD": {
+        "full_name": "true-usd",
+        "supply": 495516083.0
+    },
+    "INJ": {
+        "full_name": "injective-protocol",
+        "supply": 97727220.33
+    },
+    "QNT": {
+        "full_name": "quant-network",
+        "supply": 14544176.164091088
+    },
+    "RENDER": {
+        "full_name": "render-token",
+        "supply": 517697726.6875945
+    },
+    "CAKE": {
+        "full_name": "pancakeswap-token",
+        "supply": 291647950.7879587
+    },
+    "EOS": {
+        "full_name": "eos",
+        "supply": 1516885789.1746
+    },
+    "PENDLE": {
+        "full_name": "pendle",
+        "supply": 162923074.5167549
+    },
+    "HBAR": {
+        "full_name": "hedera-hashgraph",
+        "supply": 38256671037.85433
+    },
+    "AVAX": {
+        "full_name": "avalanche-2",
+        "supply": 411334061.7964202
+    },
+    "MATIC": {
+        "full_name": "matic-network",
+        "supply": 1896470976.0733879
+    },
+    "WIF": {
+        "full_name": "dogwifcoin",
+        "supply": 998926392.0
+    },
+    "ATOM": {
+        "full_name": "cosmos",
+        "supply": 431669167.27109
+    },
+    "BCH": {
+        "full_name": "bitcoin-cash",
+        "supply": 19815696.77165078
+    },
+    "CHZ": {
+        "full_name": "chiliz",
+        "supply": 9340096898.0
+    },
+    "GALA": {
+        "full_name": "gala",
+        "supply": 42485284689.83459
+    },
+    "ZEC": {
+        "full_name": "zcash",
+        "supply": 15843228.2905448
+    },
+    "DYDX": {
+        "full_name": "dydx-chain",
+        "supply": 721536464.3608074
+    },
+    "TURBO": {
+        "full_name": "turbo",
+        "supply": 69000000000.0
+    },
+    "GNO": {
+        "full_name": "gnosis",
+        "supply": 2589589.0
+    },
+    "THETA": {
+        "full_name": "theta-token",
+        "supply": 1000000000.0
+    },
+    "XTZ": {
+        "full_name": "tezos",
+        "supply": 1024475305.876239
+    },
+    "USDT": {
+        "full_name": "tether",
+        "supply": 137240776960.2396
+    },
+    "DOT": {
+        "full_name": "polkadot",
+        "supply": 1522267060.0
+    }
+}
