@@ -69,7 +69,7 @@ def plot_sat_index(total_market_cap):
     plt.show()
 
 # Load the coin supply data
-coin_supply = load_coin_supply('coin_supply.json')
+coin_supply = load_coin_supply('binance_full_coin_names_with_supply.json')
 
 # Define the coins to exclude
 excluded_coins = {'BTC', 'ETH', 'BNB', 'USDT', 'FUSD', 'TUSD'}
